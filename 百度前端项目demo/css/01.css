@@ -36,6 +36,7 @@ button[name="changeColor"]{
 	background:rgba(127,255,212,0.6);
 	cursor: pointer;
 	outline:none;
+	z-index:10;
 }
 button[name="changeColor"]:active{
 	color:#eee
